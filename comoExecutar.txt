@@ -1,0 +1,15 @@
+primeiro verifique se tem o python3 instalado 
+
+caso n tenha ver um tutorial no yt
+
+despois abre o terminha onde esta os arquivo e rode com o python3
+
+pra rodar o comando e "python3 nomoDoArquivo" 
+
+primeiro o  servidor despois o cliente 
+
+astes de rodar verifique se os IPs estão corretos 
+
+se n rodar ou vc esqueçeo de algo ou foi eu 
+
+por fim bom dor de cabeça 
